@@ -1,0 +1,7 @@
+.notfound-heading {
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
